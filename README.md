@@ -324,5 +324,5 @@ This project is licensed under the ISC License — see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developed_with_❤️_by-Ghnnam-2ea44f?style=for-the-badge" alt="Developed By">
+  <img src="https://img.shields.io/badge/Developed_by-Ghnnam-2ea44f?style=for-the-badge" alt="Developed By">
 </div>
